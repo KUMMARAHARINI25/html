@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<students>
+    <student>
+        <name>Harini</name>
+        <email>harini@gmail.com</email>
+        <course>B.Tech</course>
+    </student>
+
+    <student>
+        <name>Ravi</name>
+        <email>ravi@gmail.com</email>
+        <course>Diploma</course>
+    </student>
+</students>
